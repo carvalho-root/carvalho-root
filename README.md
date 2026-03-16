@@ -18,18 +18,24 @@ Aqui estão as tecnologias que utilizo diariamente no meu workflow:
 ---
 
 ### 🚀 O que estou fazendo agora?
-- 📘 Estudando html css e javascript via **Curso em Vídeo**.
+- 📘 Estudando HTML, CSS e JavaScript via **Curso em Vídeo**.
 - 🏆 Concluindo certificações de Web Design Responsivo no **freeCodeCamp**.
+- 🎯 Resolvendo desafios de interface no **Fronted Mentor**.
 - 💻 Desenvolvendo landing pages focadas em performance e responsividade.
-
 ---
 
-### 📊 Estatísticas de Desenvolvedor
-<p align="left">
+### 📊 Estatísticas e Tech Stack
+Aqui estão minhas estatísticas de desenvolvimento e as tecnologias que mais utilizo:
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carvalho-root&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalho-root&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
 ---
 
 ### 📫 Como me encontrar
