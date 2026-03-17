@@ -28,7 +28,7 @@ Aqui estão as tecnologias que utilizo diariamente no meu workflow:
 Aqui estão minhas estatísticas de desenvolvimento e as tecnologias que mais utilizo:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carvalho-root&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carvalho-root&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
