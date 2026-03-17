@@ -23,20 +23,12 @@ Aqui estão as tecnologias que utilizo diariamente no meu workflow:
 - 🎯 Resolvendo desafios de interface no **Fronted Mentor**.
 - 💻 Desenvolvendo landing pages focadas em performance e responsividade.
 ---
-
-### 📊 Estatísticas e Tech Stack
-Aqui estão minhas estatísticas de desenvolvimento e as tecnologias que mais utilizo:
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carvalho-root&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
----
+<div align="center">
 
-### 📫 Como me encontrar
+## 📫 Como me encontrar
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-carvalho10/)
+
+</div>
