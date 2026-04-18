@@ -1,7 +1,7 @@
 # Olá, me chamo Davi Carvalho! 👋
 
-### 👨‍💻 Desenvolvedor Front-end em Transição de carreira
-Sou um entusiasta de tecnologia focado em transformar designs em experiências web funcionais e limpas. Atualmente, estou dedicando meus estudos ao ecossistema **HTML5, CSS3 e JavaScript**, com o objetivo de me consolidar no mercado de desenvolvimento.
+### 👨‍💻 Desenvolvedor Web
+Sou um estudante de tecnologia focado em transformar designs em experiências web funcionais e limpas. Atualmente, estou dedicando meus estudos ao ecossistema **HTML5, CSS3, JavaScript, Python e SQL**, com o objetivo de me consolidar no mercado de desenvolvimento.
 
 ---
 
@@ -14,14 +14,16 @@ Aqui estão as tecnologias que utilizo diariamente no meu workflow:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 ---
 
 ### 🚀 O que estou fazendo agora?
-- 📘 Estudando HTML, CSS e JavaScript via **Curso em Vídeo**.
+- 📘 Estudando HTML, CSS, JavaScript Python e SQL via **Curso em Vídeo**.
 - 🏆 Concluindo certificações de Web Design Responsivo no **freeCodeCamp**.
 - 🎯 Resolvendo desafios de interface no **Fronted Mentor**.
-- 💻 Desenvolvendo landing pages focadas em performance e responsividade.
+- 💻 Em breve estaraei me desenvolvendo mais esutando no SENAC.
 ---
 </p>
 
