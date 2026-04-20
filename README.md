@@ -1,7 +1,7 @@
 # Hi ! My name is Davi Carvalho! 👋
 
 ### 👨‍💻 Web Developer
-I am a technology student focused on turning designs into clean, functional web experiences. I am currently focusing my studies on the **HTML5, CSS3, JavaScript, Python, and SQL** ecosystem, with the goal of establishing myself in the development industry.
+I am a technology student focused on turning designs into clean, functional web experiences. I am currently focusing my studies on the **HTML5, CSS3, JavaScript, Python, and SQL**  full stack ecosystem, with the goal of establishing myself in the development industry.
 
 ---
 
@@ -36,15 +36,15 @@ Here are the technologies I use every day in my workflow:
   </a>
 </div>
 
-
+---
 <details>
     <summary>🇧🇷 <b>Leia em Português (Clique para expandir)</b></summary>
     <br />
 
-# Olá, me chamo Davi Carvalho! 👋
+#  Olá, me chamo Davi Carvalho! 👋
 
 ### 👨‍💻 Desenvolvedor Web
-Sou um estudante de tecnologia focado em transformar designs em experiências web funcionais e limpas. Atualmente, estou dedicando meus estudos ao ecossistema **HTML5, CSS3, JavaScript, Python e SQL**, com o objetivo de me consolidar no mercado de desenvolvimento.
+Sou um estudante de tecnologia focado em transformar designs em experiências web funcionais e limpas. Atualmente, estou dedicando meus estudos ao ecossistema fullstack **HTML5, CSS3, JavaScript, Python e SQL**, com o objetivo de me consolidar no mercado de desenvolvimento.
 
 ---
 
@@ -64,20 +64,21 @@ Aqui estão as tecnologias que utilizo diariamente no meu workflow:
 
 ### 🚀 O que estou fazendo agora?
 
-- 🛠️ Full Stack Development: Criando o VIO, um player de música imersivo focado em UI/UX e integração de dados com Python/SQL.
+- 🛠️ Desenvolvimento Fullstack: Criando o VIO, um player de música imersivo focado em UI/UX e integração de dados com Python/SQL.
 
-- 🧠 Deep Learning: Aprofundando em lógica de programação e manipulação de DOM com JavaScript puro.
+- 🧠 Aprendizado: Aprofundando em lógica de programação e manipulação de DOM com JavaScript puro.
 
 - 🎓 Formação Acadêmica: Preparando o terreno para o curso de Programador Full Stack no SENAC.
 
-- 🌎 Language Skills: Aprimorando meu inglês técnico através de documentações, mídias e padronização bilíngue (EN/PT-BR) dos meus projetos.
+- 🌎 Idiomas: Aprimorando meu inglês técnico através de documentações, mídias e padronização bilíngue (EN/PT-BR) dos meus projetos.
 ---
 
 <div align="center">
-  <h3>📫 Find me</h3>
+  <h3>📫 Como me encontrar</h3>
   <a href="https://www.linkedin.com/in/davi-carvalho10/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
+---
 </details>
