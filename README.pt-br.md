@@ -1,15 +1,15 @@
-# Hi ! My name is Davi Carvalho! 👋
+# Olá, me chamo Davi Carvalho! 👋
 
 >[!IMPORTANT]<BR>
 >[Read in English](/README.md) | [Leia em Português](/README.pt-br.md)
 
-### 👨‍💻 Web Developer
-I am a technology student focused on turning designs into clean, functional web experiences. I am currently focusing my studies on the **HTML5, CSS3, JavaScript, Python, and SQL** ecosystem, with the goal of establishing myself in the development industry.
+### 👨‍💻 Desenvolvedor Web
+Sou um estudante de tecnologia focado em transformar designs em experiências web funcionais e limpas. Atualmente, estou dedicando meus estudos ao ecossistema **HTML5, CSS3, JavaScript, Python e SQL**, com o objetivo de me consolidar no mercado de desenvolvimento.
 
 ---
 
-### 🛠 My Study Stack
-Here are the technologies I use every day in my workflow:
+### 🛠 Minha Stack de Estudos
+Aqui estão as tecnologias que utilizo diariamente no meu workflow:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,21 +21,22 @@ Here are the technologies I use every day in my workflow:
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 ---
-## 🚀 What am I working on right now?
 
-- 🛠️ Full Stack Development: Building VIO, an immersive music player focused on UI/UX and data integration using Python/SQL.
+### 🚀 O que estou fazendo agora?
 
-- 🧠 Deep Learning: Diving deeper into programming logic and DOM manipulation using pure JavaScript.
+- 🛠️ Full Stack Development: Criando o VIO, um player de música imersivo focado em UI/UX e integração de dados com Python/SQL.
 
-- 🎓 Academic Training: Laying the groundwork for the Full Stack Developer course at SENAC.
+- 🧠 Deep Learning: Aprofundando em lógica de programação e manipulação de DOM com JavaScript puro.
 
-- 🌎 Language Skills: Improving my technical English through documentation, media, and bilingual standardization (EN/PT-BR) of my projects.
+- 🎓 Formação Acadêmica: Preparando o terreno para o curso de Programador Full Stack no SENAC.
+
+- 🌎 Language Skills: Aprimorando meu inglês técnico através de documentações, mídias e padronização bilíngue (EN/PT-BR) dos meus projetos.
 ---
 </p>
 
 <div align="center">
 
-## 📫 Find me
+## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-carvalho10/)
 
