@@ -4,6 +4,9 @@ on:
   schedule: # execute every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - master
 
 permissions:
   contents: write
@@ -12,6 +15,7 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+
     steps:
       # Snake Animation
       - uses: Platane/snk@master
