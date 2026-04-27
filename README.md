@@ -1,84 +1,37 @@
-# Hi ! My name is Davi Carvalho! 👋
+# Hi! My name is Davi Carvalho! 👋
 
-### 👨‍💻 Web Developer
-I am a technology student focused on turning designs into clean, functional web experiences. I am currently focusing my studies on the **HTML5, CSS3, JavaScript, Python, and SQL**  full stack ecosystem, with the goal of establishing myself in the development industry.
+
+<h2>About me</h2>
+
+I'm Davi, 23 years old, web developer. I have a solid foundation in HTML and CSS and I'm currently deepening my knowledge in JavaScript, Python and SQL — always with a project in hand to put things into practice<br/>
+
+---
+
+[![VIO](https://raw.githubusercontent.com/carvalho-root/carvalho-root/main/VIO.png)](https://github.com/carvalho-root/VIO)
 
 ---
 
-### 🛠 My Study Stack
-Here are the technologies I use every day in my workflow:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-## 🚀 What am I working on right now?
-
-- 🛠️ Full Stack Development: Building VIO, an immersive music player focused on UI/UX and data integration using Python/SQL.
-
-- 🧠 Deep Learning: Diving deeper into programming logic and DOM manipulation using pure JavaScript.
-
-- 🎓 Academic Training: Laying the groundwork for the Full Stack Developer course at SENAC.
-
-- 🌎 Language Skills: Improving my technical English through documentation, media, and bilingual standardization (EN/PT-BR) of my projects.
----
-
-<div align="center">
-  <h3>📫 Find me</h3>
-  <a href="https://www.linkedin.com/in/davi-carvalho10/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<div>
+  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api?username=carvalho-root&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api/top-langs/?username=carvalho-root&langs_count=16&layout=compact&border_radius=10&theme=github_dark"/>
 </div>
 
----
-<details>
-    <summary>🇧🇷 <b>Leia em Português (Clique para expandir)</b></summary>
-    <br />
-
-#  Olá, me chamo Davi Carvalho! 👋
-
-### 👨‍💻 Desenvolvedor Web
-Sou um estudante de tecnologia focado em transformar designs em experiências web funcionais e limpas. Atualmente, estou dedicando meus estudos ao ecossistema fullstack **HTML5, CSS3, JavaScript, Python e SQL**, com o objetivo de me consolidar no mercado de desenvolvimento.
-
----
-
-### 🛠 Minha Stack de Estudos
-Aqui estão as tecnologias que utilizo diariamente no meu workflow:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 🚀 O que estou fazendo agora?
-
-- 🛠️ Desenvolvimento Fullstack: Criando o VIO, um player de música imersivo focado em UI/UX e integração de dados com Python/SQL.
-
-- 🧠 Aprendizado: Aprofundando em lógica de programação e manipulação de DOM com JavaScript puro.
-
-- 🎓 Formação Acadêmica: Preparando o terreno para o curso de Programador Full Stack no SENAC.
-
-- 🌎 Idiomas: Aprimorando meu inglês técnico através de documentações, mídias e padronização bilíngue (EN/PT-BR) dos meus projetos.
----
+<br/>
+<div align= "center" width="300">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql" />
+  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhoN3FkbDR1ZzFxZjUwbWltbjlnY3hwY2JvcTM4a2M5Z2FieDNzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" width="130"/>
+</div>
+<div align= "center" width="300">
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,ps,figma"/>
+</div>
+<hr width="80%">
 
 <div align="center">
-  <h3>📫 Como me encontrar</h3>
-  <a href="https://www.linkedin.com/in/davi-carvalho10/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="mailto:davibc2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/davi-carvalho10/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
----
-</details>
+![snake gif](https://raw.githubusercontent.com/carvalho-root/carvalho-root/output/github-contribution-grid-snake-dark.svg)
+
