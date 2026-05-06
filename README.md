@@ -6,7 +6,7 @@
 I'm Davi, 23 years old, web developer. I have a solid foundation in HTML and CSS and I'm currently deepening my knowledge in JavaScript, Python and SQL — always with a project in hand to put things into practice<br/>
 
 ---
-
+[![Gatoteca](https://raw.githubusercontent.com/carvalho-root/Gatoteca/main/banner-gatoteca.png)](https://github.com/carvalho-root/Gatoteca)
 [![VIO](https://raw.githubusercontent.com/carvalho-root/carvalho-root/main/VIO.png)](https://github.com/carvalho-root/VIO)
 
 ---
