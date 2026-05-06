@@ -12,8 +12,8 @@ I'm Davi, 23 years old, web developer. I have a solid foundation in HTML and CSS
 ---
 
 <div>
-  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api?username=carvalho-root&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api/top-langs/?username=carvalho-root&langs_count=16&layout=compact&border_radius=10&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api?username=carvalho-root&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&theme=github_dark&cache_seconds=60"/>
+  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api/top-langs/?username=carvalho-root&langs_count=16&layout=compact&border_radius=10&theme=github_dark&cache_seconds=60"/>
 </div>
 
 <br/>
