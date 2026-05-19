@@ -33,5 +33,5 @@ I'm Davi, 23 years old, and a web developer. I have a solid foundation in **HTML
   <a href="https://discord.com/users/695431975175061505" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
-![snake gif](https://raw.githubusercontent.com/carvalho-root/carvalho-root/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com//davi-carvalho-dev/davi-carvalho-dev/output/github-contribution-grid-snake-dark.svg)
 
