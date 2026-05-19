@@ -7,13 +7,13 @@ I'm Davi, 23 years old, and a web developer. I have a solid foundation in **HTML
 
 ---
 
-[![VIO](https://raw.githubusercontent.com/carvalho-root/carvalho-root/main/VIO.png)](https://github.com/carvalho-root/VIO)
+[![VIO](https://raw.githubusercontent.com/davi-carvalho-dev/davi-carvalho-dev/main/VIO.png)](https://github.com/davi-carvalho-dev/VIO)
 
 ---
 
 <div>
-  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api?username=carvalho-root&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&theme=github_dark&cache_seconds=60"/>
-  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api/top-langs/?username=carvalho-root&langs_count=16&layout=compact&border_radius=10&theme=github_dark&cache_seconds=60"/>
+  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api?username=davi-carvalho-dev&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&theme=github_dark&cache_seconds=1"/>
+  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api/top-langs/?username=davi-carvalho-dev&langs_count=16&layout=compact&border_radius=10&theme=github_dark&cache_seconds=1"/>
 </div>
 
 <br/>
